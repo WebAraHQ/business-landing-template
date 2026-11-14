@@ -2,7 +2,7 @@
 
 A responsive, **bilingual (English / Persian)** landing page template for agencies, studios and small businesses. Pure HTML, CSS and JavaScript — no build step, no dependencies.
 
-**Live demo:** enable GitHub Pages for this repository and the page is served as-is.
+**Live demo:** https://webarahq.github.io/business-landing-template/
 
 ## Features
 
