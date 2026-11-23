@@ -10,6 +10,7 @@ A responsive, **bilingual (English / Persian)** landing page template for agenci
 - **Dark mode** that follows the system setting and remembers the user's choice
 - Fully responsive with a mobile menu
 - Sections: hero with animated statistics, services, filterable portfolio, process, contact form
+- Bilingual customer testimonials section with clearly marked demo copy to replace before publishing
 - Contact form with client-side validation and accessible status messages
 - Scroll reveal animations that respect `prefers-reduced-motion`
 - Theming through CSS custom properties
